@@ -1,5 +1,7 @@
 #import necessary modules/libraries
 import numpy as np
+
+# take whole line input, split based on space and convert to 2 integers
 n , m = map(int, input().split())
 
 # print(n,m)
