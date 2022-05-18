@@ -27,7 +27,7 @@ if __name__ == '__main__':
     
     #input an integer
     n = int(input().strip())
-    print(n)
+    # print(n)
     
     #input a set of integers
     set1 = set(map(int, input().split()))
