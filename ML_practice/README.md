@@ -8,6 +8,7 @@ Lec 1.1 to 2.3 of the playlist https://www.youtube.com/playlist?list=PLLssT5z_Ds
 Date : 20/05/2022
 
 Linear Regression : https://github.com/mhuzaifadev/mlzero_to_hero/tree/main/04_Simple%20_Linear_Regression
+
 -----------------------------------------------------------------------------------------------------------
 Date : 23/05/2022
 
