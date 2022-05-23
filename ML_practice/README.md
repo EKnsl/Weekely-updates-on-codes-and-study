@@ -17,4 +17,4 @@ additional :
 ML intro  : https://ml.howtocode.dev/
 
 why matrix multiplication is not commutative i.e order matters
-https://www.quora.com/What-are-the-reasons-why-the-matrix-multiplication-is-not-commutative
+https://www.quora.com/Why-is-the-multiplication-of-matrices-not-a-commutative-property-so-that-AB-neq-BA
