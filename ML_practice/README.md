@@ -15,3 +15,6 @@ lec 2.4 to 3.1 of the playlist https://www.youtube.com/playlist?list=PLLssT5z_Ds
 
 additional : 
 ML intro  : https://ml.howtocode.dev/
+
+why matrix multiplication is not commutative i.e order matters
+https://www.quora.com/What-are-the-reasons-why-the-matrix-multiplication-is-not-commutative
