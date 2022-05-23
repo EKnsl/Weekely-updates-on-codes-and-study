@@ -12,7 +12,7 @@ Linear Regression : https://github.com/mhuzaifadev/mlzero_to_hero/tree/main/04_S
 -----------------------------------------------------------------------------------------------------------
 Date : 23/05/2022
 
-lec 2.4 to 3.1 of the playlist https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+lec 2.4 to 3.4 of the playlist https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
 
 additional : 
 ML intro  : https://ml.howtocode.dev/
