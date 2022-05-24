@@ -25,8 +25,10 @@ Additional :
 Date : 24/05/2022
 
 [Linear Algebra review](https://towardsdatascience.com/linear-algebra-for-machine-learning-22f1d8aea83c)
-[lec 2.4 to 3.4 to 3.6(Linear Algebra) and Lecture 4.1 — Linear Regression With Multiple Variables-(Multiple Features))](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
-[Multiple Linear Regreassion with startup data](https://github.com/mhuzaifadev/mlzero_to_hero/tree/main/05%20Multiple%20Linear%20Regression)
+
+[Lec 3.4 to 3.6(Linear Algebra) and Lecture 4.1 — Linear Regression With Multiple Variables-(Multiple Features)](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+
+[Multiple Linear Regreassion notebook with startup data](https://github.com/mhuzaifadev/mlzero_to_hero/tree/main/05%20Multiple%20Linear%20Regression)
 
 additional resources : 
 
