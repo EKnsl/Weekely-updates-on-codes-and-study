@@ -12,7 +12,7 @@ Date : 20/05/2022
 -----------------------------------------------------------------------------------------------------------
 Date : 23/05/2022
 
-[lec 2.4 to 3.4 (Linear Regression with one variable and Linear Algebra)](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+[lec 2.4 to 3.6 (Linear Regression with one variable and Linear Algebra)](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
 Additional : 
 
