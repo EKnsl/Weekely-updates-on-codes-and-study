@@ -42,5 +42,7 @@ Linear Regression with Multiple Variable: [Lecture 4.1 - 4.7 of this playlist.](
 
 additional resources :
 [Why One-Hot Encode Data in Machine Learning?](https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning)
+
 [Use ColumnTransformer to apply different preprocessing to different columns](https://www.youtube.com/watch?v=NGq8wnH5VSo)
+
 [How column Transformers work](https://www.analyticsvidhya.com/blog/2021/05/understanding-column-transformer-and-machine-learning-pipelines/)
