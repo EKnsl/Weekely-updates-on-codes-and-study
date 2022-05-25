@@ -36,6 +36,8 @@ Example of using categorical features : [Multiple Linear Regression: A quick Int
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
+Date : 25/05/2022
+
 Linear Regression with Multiple Variable: [Lecture 4.1 - 4.7 of this playlist.](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
 additional resources :
