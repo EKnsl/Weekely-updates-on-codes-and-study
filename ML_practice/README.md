@@ -33,3 +33,12 @@ Date : 24/05/2022
 additional resources : 
 
 Example of using categorical features : [Multiple Linear Regression: A quick Introduction](https://www.askpython.com/python/examples/multiple-linear-regression)
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Linear Regression with Multiple Variable: [Lecture 4.1 - 4.7 of this playlist.](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+
+additional resources :
+[Why One-Hot Encode Data in Machine Learning?](https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning)
+[Use ColumnTransformer to apply different preprocessing to different columns](https://www.youtube.com/watch?v=NGq8wnH5VSo)
+[How column Transformers work](https://www.analyticsvidhya.com/blog/2021/05/understanding-column-transformer-and-machine-learning-pipelines/)
