@@ -60,3 +60,13 @@ Date : 26/05/2022
     * Prediction of survival with titanic dataset using Logistic regression 
 
     * Performance evaluation using accuracy precison, recall and f1 score
+
+    related resources : 
+
+    https://datascienceplus.com/logistic-regression-with-python-using-titanic-data/
+
+    [kaggle notenook](https://www.kaggle.com/code/mnassrib/titanic-logistic-regression-with-python/notebook)
+
+    [Feature Selection Techniques for regression](https://machinelearningmastery.com/feature-selection-for-regression-data/)
+
+
