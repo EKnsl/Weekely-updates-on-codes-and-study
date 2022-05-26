@@ -57,6 +57,6 @@ Date : 26/05/2022
 
     [Logistic Regression Notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/ML_practice/week1_ML_%20Intro_and_supervised_learing/code/Logistic_Regression.ipynb)
 
-    ** Prediction of survival with titanic dataset using Logistic regression 
+    * Prediction of survival with titanic dataset using Logistic regression 
 
-    ** Performance evaluation using accuracy precison, recall and f1 score
+    * Performance evaluation using accuracy precison, recall and f1 score
