@@ -40,9 +40,20 @@ Date : 25/05/2022
 
 Linear Regression with Multiple Variable: [Lecture 4.1 - 4.7 of this playlist.](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
+Logistic Reggression notebook with titanic data
+
 additional resources :
 [Why One-Hot Encode Data in Machine Learning?](https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning)
 
 [Use ColumnTransformer to apply different preprocessing to different columns](https://www.youtube.com/watch?v=NGq8wnH5VSo)
 
 [How column Transformers work](https://www.analyticsvidhya.com/blog/2021/05/understanding-column-transformer-and-machine-learning-pipelines/)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Date : 26/05/2022
+
+*Practise Logistic Regression
+[Logistic Regression Notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/ML_practice/week1_ML_%20Intro_and_supervised_learing/code/Logistic_Regression.ipynb)
+-Prediction of survival with titanic dataset using Logistic regression 
+-Performance evaluation using accuracy precison, recall and f1 score
