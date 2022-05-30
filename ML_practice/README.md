@@ -1,18 +1,18 @@
 Week1
 
-    Date : 19/05/2022
+    * Date : 19/05/2022
 
     https://ml.howtocode.dev/
 
     [ML basics(Lec 1.1 to 2.3 of the playlist)](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
     ---------------------------------------------------------------------------------------------------------
-    Date : 20/05/2022
+    * Date : 20/05/2022
 
     [Linear Regression](https://github.com/mhuzaifadev/mlzero_to_hero/tree/main/04_Simple%20_Linear_Regression)
 
     -----------------------------------------------------------------------------------------------------------
-    Date : 23/05/2022
+    * Date : 23/05/2022
 
     [lec 2.4 to 3.4 (Linear Regression with one variable and Linear Algebra upto matrix matrix multiplication)](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
@@ -24,7 +24,7 @@ Week1
 
     ----------------------------------------------------------------------------------------------------------
 
-    Date : 24/05/2022
+    * Date : 24/05/2022
 
     [Linear Algebra review](https://towardsdatascience.com/linear-algebra-for-machine-learning-22f1d8aea83c)
 
@@ -38,7 +38,7 @@ Week1
 
     ------------------------------------------------------------------------------------------------------------------------------------------
 
-    Date : 25/05/2022
+    * Date : 25/05/2022
 
     Linear Regression with Multiple Variable: [Lecture 4.1 - 4.7 of this playlist.](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
@@ -53,7 +53,7 @@ Week1
 
     ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-    Date : 26/05/2022
+    * Date : 26/05/2022
 
     * ## Practise Logistic Regression
 
@@ -73,7 +73,7 @@ Week1
 
         -------------------------------------------------------------------------------------------------------------------------------------
 
-    Date : 30/05/2022
+    * Date : 30/05/2022
 
     * ## Logistic Regression Basic concepts
 
