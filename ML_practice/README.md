@@ -85,9 +85,13 @@ Date : 30/05/2022
 
         * A better cost function than sqaured error for classification with non linear decision boundary
          
-        * Some optimization algorithms that often converges faster than Gradiant descent (according to Andrew N.G)
-            [Conjugate Gradient Descent](https://ikuz.eu/machine-learning-and-computer-science/the-concept-of-conjugate-gradient-descent-in-python/)
-            , [BFGS](https://machinelearningmastery.com/bfgs-optimization-in-python/),
+        * Some optimization algorithms that often converges faster than Gradiant descent (according to Andrew N.G):
+            * Conjugate Gradiant Descent
+                [Conjugate Gradient Descent](https://ikuz.eu/machine-learning-and-computer-science/the-concept-of-conjugate-gradient-descent-in-python/)
+            
+            *[BFGS](https://machinelearningmastery.com/bfgs-optimization-in-python/)
+            
+            * L-BFGS 
             [How L-BFGS works](https://stats.stackexchange.com/questions/284712/how-does-the-l-bfgs-work),
             [L-BFGS method basics with python code](https://www.earthinversion.com/techniques/the-L-BFGS-optimization-method/)
 
