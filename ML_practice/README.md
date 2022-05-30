@@ -81,9 +81,15 @@ Date : 30/05/2022
 
         * Logistic function  
         
-        * Different types of decision boundaries
+        * non-linear decision boundaries
 
-        * appropriate Cost function for classification with non linear decision boundary
+        * A better cost function than sqaured error for classification with non linear decision boundary
          
+        * Some optimization algorithms that often converges faster than Gradiant descent (according to Andrew N.G)
+            [Conjugate Gradient Descent](https://ikuz.eu/machine-learning-and-computer-science/the-concept-of-conjugate-gradient-descent-in-python/)
+            , [BFGS](https://machinelearningmastery.com/bfgs-optimization-in-python/),
+            [How L-BFGS works](https://stats.stackexchange.com/questions/284712/how-does-the-l-bfgs-work),
+            [L-BFGS method basics with python code](https://www.earthinversion.com/techniques/the-L-BFGS-optimization-method/)
+
 
         [Completed Lecture 6.1 - 6.4 of this playlist.](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
