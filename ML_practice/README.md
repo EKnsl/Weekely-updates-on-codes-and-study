@@ -77,6 +77,13 @@ Date : 30/05/2022
 
 * ## Logistic Regression Basic concepts
 
-    * Learn about Logistic function , Cost function and Different types of decision boundaries
+    * Learnt about
+
+        * Logistic function  
+        
+        * Different types of decision boundaries
+
+        * appropriate Cost function for classification with non linear decision boundary
+         
 
         [Completed Lecture 6.1 - 6.4 of this playlist.](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
