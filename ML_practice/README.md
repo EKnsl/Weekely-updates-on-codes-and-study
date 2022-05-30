@@ -79,4 +79,4 @@ Date : 30/05/2022
 
     * Learn about Logistic function , Cost function and Different types of decision boundaries
 
-    [Completed Lecture 6.1 - 6.4 of this playlist.](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+        [Completed Lecture 6.1 - 6.4 of this playlist.](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
