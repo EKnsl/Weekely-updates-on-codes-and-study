@@ -1,4 +1,4 @@
-Week1
+## Week1
 
 Date : 19/05/2022
 
@@ -85,14 +85,21 @@ Date : 30/05/2022
 
         * A better cost function than sqaured error for classification with non linear decision boundary
          
-        * Some optimization algorithms that often converges faster than Gradiant descent (according to Andrew N.G):
+        * Some optimization algorithms that often converge faster than Gradiant descent (according to Andrew N.G):
             * [Conjugate Gradient Descent](https://ikuz.eu/machine-learning-and-computer-science/the-concept-of-conjugate-gradient-descent-in-python/)
             
             * [BFGS](https://machinelearningmastery.com/bfgs-optimization-in-python/)
             
-            * L-BFGS 
+            * L-BFGS : 
             [How L-BFGS works](https://stats.stackexchange.com/questions/284712/how-does-the-l-bfgs-work),
             [L-BFGS method basics with python code](https://www.earthinversion.com/techniques/the-L-BFGS-optimization-method/)
 
+            * One vs rest or One vs all for multiclass classification (choose 1 class from k classes)
+                
+                [One-vs-Rest and One-vs-One for Multi-Class Classification](https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/ )
+                
+                [Logistic regression  Multiclass - One-vs-rest classification](https://www.youtube.com/watch?v=EYXSve6T5BU)
+                
+                [Logistic Regression Mutliclass Classification(OneVsRest)](https://www.youtube.com/watch?v=V8fS0T_ktn4)
 
-        [Completed Lecture 6.1 - 6.4 of this playlist.](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+    * Completed [Lecture 6.1 - 6.4 of this playlist.](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
