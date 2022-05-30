@@ -102,4 +102,4 @@ Date : 30/05/2022
             
             [Logistic Regression Mutliclass Classification(OneVsRest)](https://www.youtube.com/watch?v=V8fS0T_ktn4)
 
-    * Completed [Lecture 6.1 - 6.4 of this playlist.](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+    * Completed [Lecture 6.1 - 6.7 of this playlist.](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
