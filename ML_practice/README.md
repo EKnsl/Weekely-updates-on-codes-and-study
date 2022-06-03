@@ -103,3 +103,11 @@ Date : 30/05/2022
             [Logistic Regression Mutliclass Classification(OneVsRest)](https://www.youtube.com/watch?v=V8fS0T_ktn4)
 
     * Completed [Lecture 6.1 - 6.7 of this playlist.](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+
+    --------------------------------------------------------------------------------------------------------------------------------
+Date : 31/05/2022
+
+* ## Study conditional probability and Naive Bayes
+    [Naive Bayes practice](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/tree/main/ML_practice/week2_Supervised_Learning/Naive%20Bayes)
+    
+    
