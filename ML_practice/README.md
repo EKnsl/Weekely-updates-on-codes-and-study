@@ -1,4 +1,4 @@
-## Week1
+# Week1
 
 Date : 19/05/2022
 
@@ -41,8 +41,6 @@ Example of using categorical features : [Multiple Linear Regression: A quick Int
 Date : 25/05/2022
 
 Linear Regression with Multiple Variable: [Lecture 4.1 - 4.7 of this playlist.](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
-
-Logistic Reggression notebook with titanic data
 
 additional resources :
 [Why One-Hot Encode Data in Machine Learning?](https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning)
@@ -105,6 +103,10 @@ Date : 30/05/2022
     * Completed [Lecture 6.1 - 6.7 of this playlist.](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
     --------------------------------------------------------------------------------------------------------------------------------
+
+# Week2
+
+
 Date : 02/06/2022
 
 * ## Study conditional probability , Naive Bayes and K Nearest Neighbour
