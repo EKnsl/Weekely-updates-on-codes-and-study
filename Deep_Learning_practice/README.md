@@ -11,4 +11,4 @@
     
     * ## Run a simple neural network using keras with mnist digit data
     
-        * [My practice notebook link](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week1/Simple%20Neural%20Network%20with%20mnist%20digit%20data.ipynb)
+        * [My practice notebook link](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week1/Basic%20Neural%20Netowork/Simple%20Neural%20Network%20with%20mnist%20digit%20data.ipynb)
