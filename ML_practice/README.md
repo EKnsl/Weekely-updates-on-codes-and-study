@@ -105,9 +105,13 @@ Date : 30/05/2022
     * Completed [Lecture 6.1 - 6.7 of this playlist.](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
     --------------------------------------------------------------------------------------------------------------------------------
-Date : 31/05/2022
+Date : 02/06/2022
 
-* ## Study conditional probability and Naive Bayes
+* ## Study conditional probability , Naive Bayes and K Nearest Neighbour
+    
     [Naive Bayes practice](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/tree/main/ML_practice/week2_Supervised_Learning/Naive%20Bayes)
+
+    [K Nearest Neighbour practice](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/tree/main/ML_practice/week2_Supervised_Learning/K%20Nearest%20Neighbour)
+
     
     
