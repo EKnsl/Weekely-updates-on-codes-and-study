@@ -36,4 +36,5 @@
             [Solved problems from Hackerrank numpy sub section](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/tree/main/Deep_Learning_practice/Week2/Hackerrank%20numpy%20solved%20problems)
 
         * Data interpretation and using statistical analysis related terms
+
             [Data interpretation practice notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week2/Data%20interpretation.ipynb)  
