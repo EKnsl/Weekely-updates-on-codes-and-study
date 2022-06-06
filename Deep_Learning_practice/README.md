@@ -30,3 +30,7 @@
         * module and packaging in python
 
             [module and package practice notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week1/Basic%20Python/python3_intro_part_6_module_and_package.ipynb)
+        
+        * use different functions of numpy module
+
+            [Solved problems from Hackerrank numpy sub section](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/tree/main/Deep_Learning_practice/Week2/Hackerrank%20numpy%20solved%20problems)
