@@ -41,9 +41,12 @@
     
      Date : 07/06/2022
     
-    * ## Learn about OpenCV
+    * ## OpenCV introductory concepts
     
-        * [OpenCV intro](https://github.com/NSLabTeam/Deep-Learning-Guide/blob/master/OpenCV-Intro/%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%BE%E0%A6%B0%20%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%20:%20%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AC%20%E0%A7%A8.md) (private repository)
+        * studied [কম্পিউটার ভিশনঃ পর্ব (১ - ৪)](https://github.com/NSLabTeam/Deep-Learning-Guide/tree/master/OpenCV-Intro) (private repository)
+
+        
+        * [practice notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week2/OpenCV/OpenCV_intro.ipynb)
     
     
     * ## Install anaconda environment and OpenCV for linux(ubuntu) 
