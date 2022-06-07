@@ -46,7 +46,7 @@
         * studied [কম্পিউটার ভিশনঃ পর্ব (১ - ৪)](https://github.com/NSLabTeam/Deep-Learning-Guide/tree/master/OpenCV-Intro) (private repository)
 
         
-        * [practice notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week2/OpenCV/OpenCV_intro_0.ipynb)
+        * [opencv intro practice notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week2/OpenCV/Introduction_to_opencv.ipynb)
     
     
     * ## Install anaconda environment and OpenCV for linux(ubuntu) 
