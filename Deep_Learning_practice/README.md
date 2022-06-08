@@ -55,3 +55,23 @@
          [link](https://linuxize.com/post/how-to-install-anaconda-on-ubuntu-20-04/)
 
         * install OpenCV using the command : conda install opencv   
+
+
+
+
+     Date : 07/06/2022
+    
+    * ## Learn and experiemnt with different operations on image uisng OpenCV  
+
+        * learnt about different types of borders
+
+        * morphological operations like dilate, erode, gradient , e.t.c,\
+
+        * two types of transformation : Affine and Perspective transformation
+
+        * drawing regular shapes like lines, rectangles, cicles,contours on image
+        
+        * drawing contours
+
+         [practice notebook link](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week2/OpenCV/opencv_tut.ipynb)
+
