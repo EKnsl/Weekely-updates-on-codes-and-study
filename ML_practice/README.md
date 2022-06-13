@@ -115,5 +115,17 @@ Date : 02/06/2022
 
     [K Nearest Neighbour practice](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/tree/main/ML_practice/week2_Supervised_Learning/K%20Nearest%20Neighbour)
 
+
+Date : 13/06/2022
+
+* ## Study and practice support vector machine (SVM)
+    
+    * completed (at home) lecture 12.1 to 12.6 of  [this playlist](https://www.youtube.com/watch?v=FCUBwP-JTsA&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=75) 
+
+    * [SVM practice notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/ML_practice/week2_Supervised_Learning/Support%20Vector%20Machine/Support_Vector_Machines.ipynb)
+
+
+
+
     
     
