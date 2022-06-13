@@ -38,7 +38,9 @@
         * Data interpretation and using statistical analysis related terms
 
             [Data interpretation practice notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week2/Data%20interpretation.ipynb)  
-    
+
+* Week2
+
      Date : 07/06/2022
     
     * ## OpenCV introductory concepts
