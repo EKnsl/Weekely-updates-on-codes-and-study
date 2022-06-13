@@ -102,7 +102,7 @@ Date : 30/05/2022
 
     * Completed [Lecture 6.1 - 6.7 of this playlist.](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
-    --------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------
 
 # Week2
 
@@ -120,10 +120,21 @@ Date : 13/06/2022
 
 * ## Study and practice support vector machine (SVM)
     
-    * completed (at home) lecture 12.1 to 12.6 of  [this playlist](https://www.youtube.com/watch?v=FCUBwP-JTsA&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=75) 
+    * completed lecture 12.1 to 12.6 of  [this playlist](https://www.youtube.com/watch?v=FCUBwP-JTsA&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=75) 
 
     * [SVM practice notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/ML_practice/week2_Supervised_Learning/Support%20Vector%20Machine/Support_Vector_Machines.ipynb)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Week 03 | Part 1: Tuning and Performance Metrics of ML Model
+
+Date : 13/06/20222
+
+* ## Learnt basics of regularization and bias variance tradeoff
+
+    * Completed Regularization in Traditional ML | Part 1: lecture [7.1 to 7.4 of this playlist](https://www.youtube.com/watch?v=u73PU6Qwl1I&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=39)
+
+    * Completed Regularization in Traditional ML | Part 2: lecture [10.1 to 10.7 of this playlist](https://www.youtube.com/watch?v=sZSKGNbrwus&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=58)
 
 
 
