@@ -136,6 +136,10 @@ Date : 13/06/20222
 
     * Completed Regularization in Traditional ML | Part 2: lecture [10.1 to 10.7 of this playlist](https://www.youtube.com/watch?v=sZSKGNbrwus&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=58)
 
+Date : 21/06/20222
+
+* Completed Performance Metrics: [Lecture 11.1 - 11.5 of this playlist.](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+
 
 
     
