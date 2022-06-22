@@ -141,7 +141,7 @@ Date : 21/06/20222
 * Completed Performance Metrics: [Lecture 11.1 - 11.5 of this playlist.](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
 
-Date : 13/06/20222
+Date : 22/06/20222
 
 
 * study [Regularization for Simplicity](https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/video-lecture) 
