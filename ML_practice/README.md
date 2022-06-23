@@ -148,6 +148,11 @@ Date : 22/06/20222
 
 * read [Regularization for Simplicity: L₂ Regularization](https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/l2-regularization), [Lambda](https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/lambda), [Generalization: Peril of Overfitting](https://developers.google.com/machine-learning/crash-course/generalization/peril-of-overfitting#ockham)
 
+Date : 23/06/20222
+
+* study [Regularization in Traditional ML](http://ethen8181.github.io/machine-learning/regularization/regularization.html) 
+
+* [regularization pratice notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/ML_practice/week3_part1/Regularization/regularization.ipynb)
 
 
 
