@@ -154,6 +154,19 @@ Date : 23/06/20222
 
 * [regularization pratice notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/ML_practice/week3_part1/Regularization/regularization.ipynb)
 
+# Week 03 | Part 2: Ensemble Learning
+
+Date : 26/06/20222
+
+* studied Decison Tree : [Decision Tree Explained](https://www.youtube.com/watch?v=7VeUPuFGJHk) ,
+          [Decision Tree Summary.](https://www.youtube.com/watch?v=tNa99PG8hR8)  
+          
+* studied Random Forest : [part1](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ) ,
+          [part2](https://www.youtube.com/watch?v=nyxTdL_4Q-Q)
+
+
+
+
 
 
 
