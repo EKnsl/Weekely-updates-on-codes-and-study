@@ -173,6 +173,23 @@ Date : 28/06/2022
     
     * [decision tree practice notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/ML_practice/week3_part2/Decison_Tree/Decision_Tree_Classifier.ipynb)
 
+* ## Study Regression tree 
+    Regression Tree: [Regression Tree Explained](https://www.youtube.com/watch?v=g9c66TUylZ4).
+    
+    Summary :
+    
+    * each leaf node has a numeric value
+
+    * we determine how to divide the observations by trying different 
+    thresholds and calculating the sum of squared residuals at each step 
+    and pick the candidate with smallest sum of squared residuals 
+    to be the root
+
+    * when we have some minimum number of observations in a node then that node becomes leaf.
+    (usually 20, but for smaller datasets, it can be less than 20)
+    otherwise, we repeat the process to split the remaining 
+    observations untill we can no longer split the observations into smaller groups
+     
 
 
 
