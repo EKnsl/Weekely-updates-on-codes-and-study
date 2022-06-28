@@ -128,7 +128,7 @@ Date : 13/06/2022
 
 # Week 03 | Part 1: Tuning and Performance Metrics of ML Model
 
-Date : 13/06/20222
+Date : 13/06/2022
 
 * ## Learnt basics of regularization and bias variance tradeoff
 
@@ -141,14 +141,14 @@ Date : 21/06/20222
 * Completed Performance Metrics: [Lecture 11.1 - 11.5 of this playlist.](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
 
-Date : 22/06/20222
+Date : 22/06/2022
 
 
 * study [Regularization for Simplicity](https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/video-lecture) 
 
 * read [Regularization for Simplicity: L₂ Regularization](https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/l2-regularization), [Lambda](https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/lambda), [Generalization: Peril of Overfitting](https://developers.google.com/machine-learning/crash-course/generalization/peril-of-overfitting#ockham)
 
-Date : 23/06/20222
+Date : 23/06/2022
 
 * study [Regularization in Traditional ML](http://ethen8181.github.io/machine-learning/regularization/regularization.html) 
 
@@ -156,13 +156,23 @@ Date : 23/06/20222
 
 # Week 03 | Part 2: Ensemble Learning
 
-Date : 26/06/20222
+Date : 26/06/2022
 
 * studied Decison Tree : [Decision Tree Explained](https://www.youtube.com/watch?v=7VeUPuFGJHk) ,
           [Decision Tree Summary.](https://www.youtube.com/watch?v=tNa99PG8hR8)  
           
 * studied Random Forest : [part1](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ) ,
           [part2](https://www.youtube.com/watch?v=nyxTdL_4Q-Q)
+
+
+Date : 28/06/2022
+
+* ## Practice Decision tree using a diabetes dataset
+    
+    * learnt to change some of the hyperparametes of decison tree
+    
+    * [decision tree practice notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/ML_practice/week3_part2/Decison_Tree/Decision_Tree_Classifier.ipynb)
+
 
 
 
