@@ -169,7 +169,7 @@ Date : 28/06/2022
 
 * ## Practice Decision tree using a diabetes dataset
     
-    * learnt to change some of the hyperparametes of decison tree
+    * learnt tuning some of the hyperparametes of decison tree
     
     * [decision tree practice notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/ML_practice/week3_part2/Decison_Tree/Decision_Tree_Classifier.ipynb)
 
