@@ -190,14 +190,28 @@ Date : 28/06/2022
     otherwise, we repeat the process to split the remaining 
     observations untill we can no longer split the observations into smaller groups
      
+Date : 01/07/2022
 
-
-
-
-
-
-
-
-
+* ## Studied Adaboost: [AdaBoost Explained](https://www.youtube.com/watch?v=LsK-xG1cLYA).
     
+    important points :
     
+    * adaboost are made with stumps(tree with one node and two leaves)
+    * weighted voting is used, larger stumps weight more than smaller ones
+    * errors in making previous stumps influence erros in the next ones
+    * initially all stumps has weight = 1/(number of samples)
+    * total error = sum of the weights for the incorrectly classified samples
+    * for a stump, amount of say = 0.5 * log2((1-total error)/total error)
+    * amount of say is reciprocal to total error. i.e., when total error is small, the
+    amount of say is a relatively large positive value
+    * after the initial step, sample weights for the incorrectly 
+    classified samples are increased and decreased for correctly classified samples.
+    * for incorrectly classified samples, 
+    new sample weight = previous sample weight * exp(amount of say)
+    * for correctly classified samples, 
+    new sample weight = previous sample weight * exp(-1.0 * amount of say) 
+    * when the amount of say is relatively large, new sample weight is close to 0
+    and when the amount of say is relatively small, new sample weight is close to 1.
+    * New sample weights are normalized so that they add upto 1.
+    * weighted gini index can be used to determine which feature variable should split the next stump
+
