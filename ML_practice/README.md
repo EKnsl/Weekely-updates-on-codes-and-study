@@ -215,3 +215,15 @@ Date : 01/07/2022
     * New sample weights are normalized so that they add upto 1.
     * weighted gini index can be used to determine which feature variable should split the next stump
 
+
+    Date : 02/07/2022
+
+* ## Studied [Decision Trees and Ensemble Methods](https://www.youtube.com/watch?v=wr9gUr-eWdA&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=11)
+    
+    * learnt about splits in decision tree, pros and cons of DTs, different kind of ensemble techniques
+
+
+
+
+    
+
