@@ -227,9 +227,17 @@ Date : 03/07/2022
 
 * ## Studied Gradient Boost: 
     [Part 1](https://www.youtube.com/watch?v=3CC4N4z3GJc), 
-    [Part2](https://www.youtube.com/watch?v=2xudPOBz-vs), 
-    [Part3](https://www.youtube.com/watch?v=jxuNLH5dXCs), 
-    [Part4](https://www.youtube.com/watch?v=StWY5QWMXCw).
+    [Part 2](https://www.youtube.com/watch?v=2xudPOBz-vs), 
+    [Part 3](https://www.youtube.com/watch?v=jxuNLH5dXCs), 
+    [Part 4](https://www.youtube.com/watch?v=StWY5QWMXCw).
+
+Date : 03/07/2022
+
+* ## Studied Xtreme Gradient Boost: 
+    [Part 1](https://www.youtube.com/watch?v=OtD8wVaFm6E), 
+    <!-- [Part 2](https://www.youtube.com/watch?v=2xudPOBz-vs), 
+    [Part 3](https://www.youtube.com/watch?v=jxuNLH5dXCs), 
+    [Part 4](https://www.youtube.com/watch?v=StWY5QWMXCw). -->
 
 
 
