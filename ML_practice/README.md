@@ -216,11 +216,20 @@ Date : 01/07/2022
     * weighted gini index can be used to determine which feature variable should split the next stump
 
 
-    Date : 02/07/2022
+Date : 02/07/2022
 
 * ## Studied [Decision Trees and Ensemble Methods](https://www.youtube.com/watch?v=wr9gUr-eWdA&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=11)
     
     * learnt about splits in decision tree, pros and cons of DTs, different kind of ensemble techniques
+
+
+Date : 03/07/2022
+
+* ## Studied Gradient Boost: 
+    [Part 1](https://www.youtube.com/watch?v=3CC4N4z3GJc), 
+    [Part2](https://www.youtube.com/watch?v=2xudPOBz-vs), 
+    [Part3](https://www.youtube.com/watch?v=jxuNLH5dXCs), 
+    [Part4](https://www.youtube.com/watch?v=StWY5QWMXCw).
 
 
 
