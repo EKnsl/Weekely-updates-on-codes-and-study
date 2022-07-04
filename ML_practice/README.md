@@ -231,7 +231,8 @@ Date : 03/07/2022
     [Part 3](https://www.youtube.com/watch?v=jxuNLH5dXCs), 
     [Part 4](https://www.youtube.com/watch?v=StWY5QWMXCw).
 
-Date : 03/07/2022
+
+Date : 04/07/2022
 
 * ## Studied Xtreme Gradient Boost: 
     [Part 1](https://www.youtube.com/watch?v=OtD8wVaFm6E), 
