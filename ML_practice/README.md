@@ -236,9 +236,52 @@ Date : 04/07/2022
 
 * ## Studied Xtreme Gradient Boost: 
     [Part 1](https://www.youtube.com/watch?v=OtD8wVaFm6E), 
-    <!-- [Part 2](https://www.youtube.com/watch?v=2xudPOBz-vs), 
+
+Date : 08/07/2022
+
+* ## Studied Xtreme Gradient Boost: 
+    [Part 2](https://www.youtube.com/watch?v=2xudPOBz-vs), 
     [Part 3](https://www.youtube.com/watch?v=jxuNLH5dXCs), 
-    [Part 4](https://www.youtube.com/watch?v=StWY5QWMXCw). -->
+    [Part 4](https://www.youtube.com/watch?v=StWY5QWMXCw).
+
+Date : 09/07/2022
+
+* ## Ensemble related problem solving :
+    
+    * [Adaboost Practice Norebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/ML_practice/week3_part2/Ensemble/AdaBoost.ipynb)
+
+    * [Xtreme Gradiant Boosting Practice Notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/ML_practice/week3_part2/Ensemble/XGBoost_Regression.ipynb)
+
+
+Date : 12/07/2022
+
+* ## Studied clustering 
+    Lec 13.1 - 13.5 of [this playlist](https://www.youtube.com/watch?v=Ev8YbxPu_bQ&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=77)
+
+Date : 13/07/2022
+* ## Studied Dimensionality reduction
+    Lec 14.1 - 14.5 of [this playlist](https://www.youtube.com/watch?v=Zbr5hyJNGCs&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=81)
+
+Date : 14/07/2022
+
+* ## Studied Dimensionality reduction
+    Lec 14.6 - 14.7 of [this playlist](https://www.youtube.com/watch?v=Zbr5hyJNGCs&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=81)
+
+Date : 15/07/2022
+
+* ## Studied Anomaly detection
+    Lec 15.1 - 15.4 of [this playlist](https://www.youtube.com/watch?v=086OcT-5DYI&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=88)
+
+Date : 16/07/2022
+
+* ## Studied Anomaly detection
+    Lec 15.5 - 15.8 of [this playlist](https://www.youtube.com/watch?v=086OcT-5DYI&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=88)
+
+Date : 17/07/2022
+
+* ## Studied Recommendation Systems
+    Lec 16.1 - 16.2 of [this playlist](https://www.youtube.com/watch?v=giIXNoiqO_U&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=96)
+
 
 
 
