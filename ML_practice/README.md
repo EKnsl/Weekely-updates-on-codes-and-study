@@ -282,6 +282,11 @@ Date : 17/07/2022
 * ## Studied Recommendation Systems
     Lec 16.1 - 16.2 of [this playlist](https://www.youtube.com/watch?v=giIXNoiqO_U&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=96)
 
+Date : 18/07/2022
+
+* ## Studied Recommendation Systems
+    Lec 16.3 - 16.6 of [this playlist](https://www.youtube.com/watch?v=giIXNoiqO_U&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=96)
+
 
 
 
