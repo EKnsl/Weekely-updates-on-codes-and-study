@@ -1,5 +1,6 @@
 
-* Week1 
+
+* # Week1 
 
     Date : 26/05/2022
     
@@ -38,8 +39,10 @@
         * Data interpretation and using statistical analysis related terms
 
             [Data interpretation practice notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week2/Data%20interpretation.ipynb)  
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* Week2
+* # Week2 
+
 
      Date : 07/06/2022
     
@@ -76,4 +79,19 @@
         * drawing contours
 
          [practice notebook link](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week2/OpenCV/opencv_tut.ipynb)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* # Week3
+
+    Date : 19/07/2022
+
+    * ## Studied 
+        [Deep learnng intro](https://github.com/NSLabTeam/Deep-Learning-Guide/blob/master/DL_intro/00_introduction.ipynb), 
+        [Deep learning basics](https://github.com/NSLabTeam/Deep-Learning-Guide/blob/master/DL_intro/01_deep_learning_basics.ipynb),
+        [Deep learning tools](https://github.com/NSLabTeam/Deep-Learning-Guide/blob/master/DL_intro/02_deep_learning_tools.ipynb)
+
+    * Studied 
+        [Regression vs classfication](https://rakibul-hassan.gitbook.io/deep-learning/start-page/what_we_learnt),
+        
 
