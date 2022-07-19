@@ -287,6 +287,11 @@ Date : 18/07/2022
 * ## Studied Recommendation Systems
     Lec 16.3 - 16.6 of [this playlist](https://www.youtube.com/watch?v=giIXNoiqO_U&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=96)
 
+Date : 19/07/2022
+
+* ## Kmeans clustering :
+    [Kmeans clustering practice notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/ML_practice/week4_Unsupervised_Learning/Clustering/K_Means_Clustering.ipynb)
+
 
 
 
