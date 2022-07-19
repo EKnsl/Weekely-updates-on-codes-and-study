@@ -291,7 +291,7 @@ Date : 19/07/2022
 
 * ## Kmeans clustering : [Kmeans clustering practice notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/ML_practice/week4_Unsupervised_Learning/Clustering/K_Means_Clustering.ipynb)
 
-* ## Kmeans clustering : [DBScan clustering practice notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/ML_practice/week4_Unsupervised_Learning/Clustering/DBSCAN_Clustering.ipynb)
+* ## DBSCAN clustering : [DBScan clustering practice notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/ML_practice/week4_Unsupervised_Learning/Clustering/DBSCAN_Clustering.ipynb)
 
 
 
