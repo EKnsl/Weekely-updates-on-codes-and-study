@@ -291,7 +291,9 @@ Date : 19/07/2022
 
 * ## Kmeans clustering : [Kmeans clustering practice notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/ML_practice/week4_Unsupervised_Learning/Clustering/K_Means_Clustering.ipynb)
 
-* ## DBSCAN clustering : [DBScan clustering practice notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/ML_practice/week4_Unsupervised_Learning/Clustering/DBSCAN_Clustering.ipynb)
+* ## DBSCAN clustering : [DBSCAN clustering practice notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/ML_practice/week4_Unsupervised_Learning/Clustering/DBSCAN_Clustering.ipynb)
+
+* ## Principal Component Analysis : [Principal Component Analysis](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/ML_practice/week4_Unsupervised_Learning/Dimensionality%20Reduction/Principal%20Component%20Analysis/Principal%20Component%20Analysis.ipynb)
 
 
 
