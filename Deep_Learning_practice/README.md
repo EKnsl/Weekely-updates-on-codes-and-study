@@ -93,5 +93,10 @@
 
     * Studied 
         [Regression vs classfication](https://rakibul-hassan.gitbook.io/deep-learning/start-page/what_we_learnt),
-        
 
+    Date : 22/07/2022
+
+    * ## Studied 
+        [Linear regression, logistic regression, feature cross](https://rakibul-hassan.gitbook.io/deep-learning/start-page/feature_crosses)
+
+        practice : [Deep_learning_nonlinearity_feature_cross.ipynb](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week3/Deep_learning_nonlinearity_feature_cross.ipynb)
