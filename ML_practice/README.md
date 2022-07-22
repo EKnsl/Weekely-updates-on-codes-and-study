@@ -301,6 +301,10 @@ Date : 19/07/2022
 
 [Principal Component Analysis](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/ML_practice/week4_Unsupervised_Learning/Dimensionality%20Reduction/Principal%20Component%20Analysis/Principal%20Component%20Analysis.ipynb)
 
+Date : 22/07/2022
+
+* ## Practice Anomaly Detection with credit card data
+    [Credit Card Fraud Detection.ipynb](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/ML_practice/week4_Unsupervised_Learning/Anomaly_Detection/%20Credit%20Card%20Fraud%20Detection.ipynb)
 
 
 
