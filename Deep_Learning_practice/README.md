@@ -122,7 +122,11 @@
 
     * ## Handwritten Digit classification practice using mnist handwritten digit data and CNN model
 
-        practice notebook : [mnist_handwritten_classification_using_CNN.ipynb](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week4/mnist_handwritten_classification_using_CNN.ipynb)
+        practice notebook : [mnist_handwritten_classification_using_CNN.ipynb](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week4/mnist_handwritten_classification_using_CNN.ipynb), 
+        [mnist_handwritten_classification_using_CNN_tf_v2_1_0.ipynb](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week4/mnist_handwritten_classification_using_CNN_tf_v2_1_0.ipynb)
+
+
+
     
 
 
