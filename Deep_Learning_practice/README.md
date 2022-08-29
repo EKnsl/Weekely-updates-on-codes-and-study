@@ -116,6 +116,14 @@
         [Keras Sequential APi Practice Notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week4/Keras_Sequential.ipynb), 
         [Keras Sequencual vs Functional Practice notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week4/Keras_Sequential_vs_Functional.ipynb)
     
+    
+
+    Date : 27/08/2022
+
+    * ## Handwritten Digit classification practice using mnist handwritten digit data and CNN model
+
+        practice notebook : [mnist_handwritten_classification_using_CNN.ipynb](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week4/mnist_handwritten_classification_using_CNN.ipynb)
+    
 
 
 
