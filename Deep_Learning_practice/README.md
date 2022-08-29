@@ -100,6 +100,12 @@
         [Linear regression, logistic regression, feature cross](https://rakibul-hassan.gitbook.io/deep-learning/start-page/feature_crosses)
 
         practice : [Deep_learning_nonlinearity_feature_cross.ipynb](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week3/Deep_learning_nonlinearity_feature_cross.ipynb)
+    
+    Date : 25/08/2022
+
+    * ## Experiment with moon dataset using Shallow Neural Network
+
+        practice notebook link : [Moon_dataset_using_shallow_nn.ipynb](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week3/Moon_dataset_using_shallow_nn.ipynb)
 
 
 * # Week4
@@ -109,6 +115,9 @@
     * ## Studied Keras Sequential API
         [Keras Sequential APi Practice Notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week4/Keras_Sequential.ipynb), 
         [Keras Sequencual vs Functional Practice notebook](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week4/Keras_Sequential_vs_Functional.ipynb)
+    
+
+
 
 
 
