@@ -124,6 +124,12 @@
 
         practice notebook : [mnist_handwritten_classification_using_CNN.ipynb](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week4/mnist_handwritten_classification_using_CNN.ipynb), 
         [mnist_handwritten_classification_using_CNN_tf_v2_1_0.ipynb](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week4/mnist_handwritten_classification_using_CNN_tf_v2_1_0.ipynb)
+    
+    Date : 29/08/2022
+
+    * ## cat vs dog image classification using CNN
+
+        practice notebook : [cat_vs_dog_clf_cnn.ipynb](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week4/cat_vs_dog_clf_cnn.ipynb)
 
 
 
