@@ -132,6 +132,15 @@
         practice notebook : [cat_vs_dog_clf_cnn.ipynb](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week4/cat_vs_dog_clf_cnn.ipynb)
 
 
+* # Week5
+
+
+    Date : 06/09/2022
+
+    * ## CNN layers output visualization (conv2d and max pooling layers)
+
+        practice notebook : [CNN_layers_output_visualization.ipynb](https://github.com/EKnsl/Weekely-updates-on-codes-and-study/blob/main/Deep_Learning_practice/Week5/CNN_layers_output_visualization.ipynb)
+
 
     
 
