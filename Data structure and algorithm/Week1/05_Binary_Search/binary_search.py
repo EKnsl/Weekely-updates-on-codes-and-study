@@ -47,8 +47,6 @@ def binary_search_upper_bound(arr, key):
     return -1    
         
 if __name__ == '__main__':
-    arr = [1,2,3,5,5,5,5,5]
-    key = 5
     lower_pos = binary_search_lower_bound(arr, key)
     upper_pos = binary_search_upper_bound(arr, key)
     
