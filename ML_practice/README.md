@@ -1,3 +1,58 @@
+Index:
+
+``` bash
+.
+├── README.md
+├── week1_ML_ Intro_and_supervised_learing
+│   ├── data
+│   │   ├── 50_Startups.csv
+│   │   ├── headbrain.csv
+│   │   └── titanic.csv
+│   ├── Linear Regression
+│   │   ├── Multiple_Linear_Regression_with_startup_data.ipynb
+│   │   └── Simple_Linear_Regression.ipynb
+│   └── Logistic Regression
+│       └── Logistic_Regression.ipynb
+├── week2_Supervised_Learning
+│   ├── data
+│   │   └── credit_data.csv
+│   ├── K Nearest Neighbour
+│   │   ├── 05.KNN.pdf
+│   │   └── K_Nearest_Neighbors.ipynb
+│   ├── Naive Bayes
+│   │   ├── Conditional Probability.pdf
+│   │   ├── cs188 lecture 20 -- naive bayes 6PP.pdf
+│   │   └── Naive_Bayes.ipynb
+│   └── Support Vector Machine
+│       └── Support_Vector_Machines.ipynb
+├── week3_part1
+│   └── Regularization
+│       └── regularization.ipynb
+├── week3_part2
+│   ├── Decison_Tree
+│   │   ├── data
+│   │   │   └── pima_indians_diabetes.csv
+│   │   ├── Decision_Tree_Classifier.ipynb
+│   │   └── diabetes.png
+│   └── Ensemble
+│       ├── AdaBoost.ipynb
+│       └── XGBoost_Regression.ipynb
+└── week4_Unsupervised_Learning
+    ├── Anomaly_Detection
+    │   ├──  Credit Card Fraud Detection.ipynb
+    │   └── data
+    ├── Clustering
+    │   ├── 01_K_Means_Clustering.ipynb
+    │   ├── 02_DBSCAN_Clustering.ipynb
+    │   ├── 03_Hierarchical_Clustering.ipynb
+    │   └── data
+    │       └── Quotes.csv
+    └── Dimensionality Reduction
+        └── Principal Component Analysis
+            └── Principal Component Analysis.ipynb
+
+```
+
 # Week1
 
 Date : 19/05/2022
