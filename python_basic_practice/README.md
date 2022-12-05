@@ -27,56 +27,12 @@
 ├── Hackerrank_solved_problems
 │   ├── datewise_solved
 │   │   ├── 2022-05-12
-│   │   │   ├── finding-the-percentage.py
-│   │   │   ├── list-comprehensions.py
-│   │   │   ├── nested-list.py
-│   │   │   ├── python-arithmetic-operators.py
-│   │   │   ├── python-division.py
-│   │   │   ├── python-lists.py
-│   │   │   ├── python-loops.py
-│   │   │   ├── python-print.py
-│   │   │   ├── whats-your-name.py
-│   │   │   └── write-a-function.py
 │   │   ├── 2022-05-13
-│   │   │   ├── np-array-mathematics.py
-│   │   │   ├── np-arrays.py
-│   │   │   ├── np-dot-and-cross-modified.py
-│   │   │   ├── np-dot-and-cross.py
-│   │   │   ├── np-linear-algebra.py
-│   │   │   ├── np-mean-var-and-std.py
-│   │   │   ├── np-min-and-max.py
-│   │   │   ├── np-shape-reshape.py
-│   │   │   ├── np-sum-and-prod.py
-│   │   │   └── np-transpose-and-flatten.py
 │   │   ├── 2022-05-16
-│   │   │   ├── py-check-strict-superset.py
-│   │   │   ├── py-check-subset.py
-│   │   │   ├── py-introduction-to-sets.py
-│   │   │   ├── py-set-add.py
-│   │   │   └── python-quest-1.py
 │   │   ├── 2022-05-17
-│   │   │   ├── floor-ceil-and-rint.py
-│   │   │   ├── np-eye-and-identity.py
-│   │   │   ├── np-inner-and-outer.py
-│   │   │   ├── np-polynomials.py
-│   │   │   └── np-zeros-and-ones.py
 │   │   ├── 2022-05-18
-│   │   │   ├── merge-the-tools.py
-│   │   │   ├── np-concatenate.py
-│   │   │   ├── py-hello-world.py
-│   │   │   ├── py-set-difference-operation.py
-│   │   │   ├── py-set-discard-remove-pop.py
-│   │   │   ├── py-set-intersection-operation.py
-│   │   │   ├── py-set-mutations.py
-│   │   │   ├── py-set-symmetric-difference-operation.py
-│   │   │   ├── py-set-union.py
-│   │   │   └── symmetric-difference.py
 │   │   ├── 2022-05-19
-│   │   │   ├── no-idea.py
-│   │   │   ├── py-the-captains-room.py
-│   │   │   └── python-tuples.py
 │   │   └── 2022-07-25
-│   │       └── merge-the-tools.py
 │   └── topicwise_solved
 │       ├── Class
 │       │   ├── class-1-dealing-with-complex-numbers.py
